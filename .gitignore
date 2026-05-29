@@ -1,5 +1,6 @@
 .venv
 report_status.json
 build/
+validator_op_eshop.spec
 urls.text
 __pycache__/
