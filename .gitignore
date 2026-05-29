@@ -1,2 +1,5 @@
 .venv
 report_status.json
+build/
+urls.text
+__pycache__/
